@@ -2,6 +2,8 @@
 
 ### Project Overview
 
+![dollar](https://github.com/user-attachments/assets/1b92c27b-b4f9-487e-ab18-ce4ac0300ad8)
+
 This project analyzes international debt data collected by The World Bank, focusing on the debt owed by developing countries across various categories. The objective of this project is to uncover key insights about the debt situation among these nations, including identifying the largest debtors, understanding debt distribution by category, and recognizing overall debt trends. Through this analysis, we aim to provide a clearer understanding of how debt supports economic development in developing countries and offer valuable insights for stakeholders and policymakers.
 
 ### Data Sources
