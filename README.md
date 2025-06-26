@@ -93,7 +93,7 @@ LIMIT 1;
 The analysis results are summarized as follows:
 - There are 124 distinct developing countries recorded in the international debt dataset.
 - The country with the highest total debt is China, with a total debt amounting to approximately $285 billion USD.
-- The country with the lowest principal repayments is Timor Leste, with repayments as low as $825,000 USD.
+- The country with the lowest principal repayments (indicator: DT.AMT.DLXF.CD) is Timor Leste, with repayments as low as $825,000 USD.
 
 ### Recommendations
 
